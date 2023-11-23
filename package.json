@@ -8,7 +8,7 @@
     "node": ">=16.x"
   },
   "scripts": {
-    "start": "npx@latest nodemon index.js"
+    "start": "npx nodemon@2.0.16 index.js"
   },
   "keywords": [],
   "author": "",
